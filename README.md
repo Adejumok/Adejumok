@@ -1,4 +1,5 @@
 ### Hi there 👋
+- 😄 I'm a passionate software engineer and a quality-driven data scientist with a knack for building scalable and efficient solutions.
 
 <!--
 **Adejumok/Adejumok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
