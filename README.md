@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 😄 I'm Adejumoke, a passionate software engineer and a quality-driven data scientist with a knack for building scalable and efficient solutions.
+- 😄 I'm Adejumoke, a passionate software engineer and quality-driven data scientist with a knack for building scalable and efficient solutions.
 - 💻 I thrive on turning ideas into reality through code. With expertise in Java, Python, JavaScript, R, Spring Boot, Django, React, I enjoy tackling complex problems and creating innovative software applications that make a positive impact.
 
 <!--
