@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 😄 I'm a passionate software engineer and a quality-driven data scientist with a knack for building scalable and efficient solutions.
-- 💻 I thrive on turning ideas into reality through code. With expertise in , I enjoy tackling complex problems and creating innovative software applications that make a positive impact.
+- 💻 I thrive on turning ideas into reality through code. With expertise in Java, Python, JavaScript, R, Spring Boot, Django, React, I enjoy tackling complex problems and creating innovative software applications that make a positive impact.
 
 <!--
 **Adejumok/Adejumok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
