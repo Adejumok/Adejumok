@@ -2,7 +2,7 @@
 - 😄 I'm Adejumoke, a passionate software engineer and quality-driven data scientist with a knack for building scalable and efficient solutions.
 - 💻 I thrive on turning ideas into reality through code. With expertise in Java, Python, JavaScript, R, Spring Boot, Django, React, I enjoy tackling complex problems and creating innovative software applications that make a positive impact.
 - 🌟 Throughout my career, I have contributed to a wide range of projects, from backend development to full-stack web development. I am experienced in working with cross-functional teams, utilizing agile methodologies to deliver high-quality software within deadlines.
-- 🔧 My skill set includes designing clean and maintainable code architectures, optimizing performance, and implementing best practices in software development. I am well-versed in the latest industry trends and emerging technologies, constantly exploring ways to enhance my skills.
+- 🔧 My skill set includes designing clean and maintainable code architectures, optimizing performance, and implementing best practices in software development. I am also skilled in I am well-versed in the latest industry trends and emerging technologies, constantly exploring ways to enhance my skills.
 
 <!--
 **Adejumok/Adejumok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
