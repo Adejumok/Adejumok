@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 😄 I'm Adejumoke, a versatile software engineer and data scientist passionate about leveraging technology to drive insights and solve complex problems.
-- 
-- 💻 I thrive on turning ideas into reality through code. With expertise in Java, Python, JavaScript, R, Spring Boot, Django, React, I enjoy tackling complex problems and creating innovative software applications that make a positive impact.
+- 💻 On the software engineering front, I have a strong background in  Java, Python, JavaScript, R, Spring Boot, Django, React,  and enjoy building scalable, efficient, and user-centric applications. I thrive in full-stack development, collaborating with cross-functional teams to deliver high-quality software solutions.
+- 💻 I thrive on turning ideas into reality through code. With expertise inI enjoy tackling complex problems and creating innovative software applications that make a positive impact.
 - 🌟 Throughout my career, I have contributed to a wide range of projects, from backend development to full-stack web development. I am experienced in working with cross-functional teams, utilizing agile methodologies to deliver high-quality software within deadlines.
 - 🔧 My skill set includes designing clean and maintainable code architectures, optimizing performance, and implementing best practices in software development. I am also skilled in I am well-versed in the latest industry trends and emerging technologies, constantly exploring ways to enhance my skills.
 
