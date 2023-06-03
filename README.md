@@ -5,7 +5,6 @@
 - 🌟 Bridging the gap between software engineering and data science. Expertise in designing robust data pipelines, managing databases, and implementing scalable architectures.
 
 
-- 🔧 My skill set includes designing clean and maintainable code architectures, optimizing performance, and implementing best practices in software development. I am also skilled in I am well-versed in the latest industry trends and emerging technologies, constantly exploring ways to enhance my skills.
 
 <!--
 **Adejumok/Adejumok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
