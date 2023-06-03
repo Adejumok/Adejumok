@@ -4,7 +4,6 @@
 - 📊 Skilled in statistical analysis, data visualization, and machine learning. Proficient in Python, R, and SQL. Equipped to derive insights and make data-driven decisions.
 - 🌟 Bridging the gap between software engineering and data science. Expertise in designing robust data pipelines, managing databases, and implementing scalable architectures.
 
-
 <!--
 **Adejumok/Adejumok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
