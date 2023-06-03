@@ -2,7 +2,6 @@
 - 😄 Software engineer & data scientist with a passion for building impactful solutions.
 - 💻 Strong background in Java, Python, JavaScript, R, Spring Boot, Django, React. Experienced in full-stack development, collaborating to deliver high-quality software applications.
 - 📊 Skilled in statistical analysis, data visualization, and machine learning. Proficient in Python, R, and SQL. Equipped to derive insights and make data-driven decisions.
-- 🌟 Throughout my career, I have contributed to a wide range of projects, from backend development to full-stack web development. I am experienced in working with cross-functional teams, utilizing agile methodologies to deliver high-quality software within deadlines.
 - 🔧 My skill set includes designing clean and maintainable code architectures, optimizing performance, and implementing best practices in software development. I am also skilled in I am well-versed in the latest industry trends and emerging technologies, constantly exploring ways to enhance my skills.
 
 <!--
