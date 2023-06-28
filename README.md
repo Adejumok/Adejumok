@@ -2,9 +2,9 @@
 - 😄 Software engineer & data scientist with a passion for building impactful solutions.
 - 💻 Strong background in Java, Python, JavaScript, R, Spring Boot, Django, React. Experienced in full-stack development, collaborating to deliver high-quality software applications.
 - 📊 Skilled in statistical analysis, data visualization, and machine learning. Proficient in Python, R, and SQL. Equipped to derive insights and make data-driven decisions.
-- - 🌱 I’m currently learning ...
+- 🌱 I’m currently learning how to implement scalable architectures.
 
-- 🌟 Bridging the gap between software engineering and data science. Expertise in designing robust data pipelines, managing databases, and implementing scalable architectures.
+- 🌟 Bridging the gap between software engineering and data science. Expertise in designing robust data pipelines, managing databases, and 
 
 <!--
 **Adejumok/Adejumok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
