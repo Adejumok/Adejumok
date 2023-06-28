@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 😄 Software engineer & data scientist with a passion for building impactful solutions.
-- 💻 Strong background in Java, Python, JavaScript, R, Spring Boot, Django, React. Improving myself in , collaborating to deliver high-quality software applications.
-- 👯 I’m looking to collaborate on full-stack development.
+- 💻 Strong background in Java, Python, JavaScript, R, Spring Boot, Django, React.
+- 👯 I’m looking to collaborate with others to deliver high-quality software applications
 - 📊 Skilled in statistical analysis, data visualization, and machine learning. Proficient in Python, R, and SQL. Equipped to derive insights and make data-driven decisions.
 - 🌱 I’m currently learning how to implement scalable architectures, designing robust data pipelines, managing databases.
 - 🌟 Bridging the gap between software engineering and data science.
